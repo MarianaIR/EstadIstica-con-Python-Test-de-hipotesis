@@ -1,2 +1,2 @@
-# Estad-stica-con-Python-Test-de-hip-tesis
+# Estadistica-con-Python-Test-de-hipotesis
 Estadistica con Python.
